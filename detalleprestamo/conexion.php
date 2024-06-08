@@ -11,4 +11,4 @@
     if ($conn->connect_error) {
         die("Conexión fallida: " . $conn->connect_error); // Si hay un error en la conexión, se muestra un mensaje de error y se detiene el script
     }
-    ?>  
+    ?>
